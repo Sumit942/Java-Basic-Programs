@@ -1,6 +1,6 @@
 package com.demo.basicprograms;
 
-public class SwapTrick {
+public class E9_SwapTrick {
 
 	/**
 	 * Old school Trick for swapping numbers
